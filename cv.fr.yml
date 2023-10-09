@@ -1,0 +1,113 @@
+# yaml-language-server: $schema=./cv.typ/cv.typ.schema.json
+
+personal:
+  name: Samuel Corsi-House
+  email: chouse.samuel@gmail.com
+  phone: (514) 973-2633
+  url: https://xenfo.dev
+  location:
+    city: Montréal
+    region: Québec
+    postalCode: H1R 2J6
+    country: Canada
+  profiles:
+    - network: LinkedIn
+      username: Samuel Corsi-House
+      url: https://linkedin.com/in/samchouse
+    - network: GitHub
+      username: Xenfo
+      url: https://github.com/Xenfo
+
+summary: Experienced full stack developer trained in TypeScript, Go and Rust. Two years of experience using Go and JavaScript/TypeScript with React creating backend and frontend systems. Built the Message Center at Aheeva.
+
+work:
+  - organization: Aheeva
+    position: Full Stack Developer
+    url: https://aheeva.com
+    location: Télétravail / Montréal, Canada
+    startDate: 2022-02-01
+    endDate: null
+    highlights:
+      - Worked with TypeScript, React, Angular, Go and MongoDB
+      - Built the Message Center from scratch
+
+education:
+  - institution: Collège Vincent Massey
+    url: https://vmc.qc.ca
+    studyType: Diplôme d'études secondaires
+    area: null
+    startDate: 2019-08-30
+    endDate: 2024-06-23
+    location: Montréal, Canada
+    honors:
+      - Les plus hautes distinctions en 2022
+    courses:
+      - Calcul Différentiel & Calcul II
+    highlights: null
+
+affiliations: null
+awards: null
+
+certificates:
+  - name: CS50x
+    issuer: CS50
+    date: 2023-09-01
+    credentialId: fc796a09-fde0-446c-b9fe-78de0b39a38d
+    url: https://cs50.harvard.edu/certificates/fc796a09-fde0-446c-b9fe-78de0b39a38d
+  - name: edX Certificat Vérifié pour CS50's Introduction to Computer Science
+    date: 2023-09-01
+    issuer: edX
+    credentialId: c00e198b1ff8433faf572ab26e23dd00
+    url: https://courses.edx.org/certificates/c00e198b1ff8433faf572ab26e23dd00
+
+publications: null
+
+projects:
+  - name: Covid Report
+    url: https://xenfo.dev/projects/covid-report
+    affiliation: Personnel
+    startDate: 2022-01-01
+    endDate: 2022-04-01
+    highlights:
+      - À travaillé avec TypeScript, Next.JS et Prisma
+      - Built an easy way for parents to report and track Covid-19 cases in EMSB schools
+  - name: Alph4
+    url: https://alph4.xyz
+    affiliation: Alph4
+    startDate: 2020-08-01
+    endDate: null
+    highlights:
+      - À travaillé avec TypeScript
+      - Created a multi-purpose Discord bot used by nearly 260,000 people with a team of only two developers
+      - Modified Discord Akairo to support new features within Discord such as slash commands
+
+skills:
+  - category: Programmation
+    skills:
+      - Javascript/Typescript
+      - Go
+      - Rust
+      - MongoDB
+  - category: Tools
+    skills:
+      - Git
+      - Docker
+  - category: Développement Web
+    skills:
+      - React
+      - Next.js
+      - Tailwind CSS
+      - Node.js
+  - category: Développement Backend
+    skills:
+      - Actix
+      - Fiber
+
+languages:
+  - language: Anglais
+    fluency: Langue maternelle
+  - language: Français
+    fluency: Parle couramment
+
+interests: null
+references: null

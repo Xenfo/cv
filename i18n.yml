@@ -1,0 +1,39 @@
+en:
+  summary: Summary
+  education:
+    title: Education
+    honors: Honors
+    courses: Courses
+  work:
+    title: Work Experience
+  projects:
+    title: Projects
+  certificates:
+    title: Licenses & Certifications
+    issuedBy: Issued by
+    credentialId: Credential ID
+  skills:
+    titles:
+      languages: Languages
+      skills: Skills
+      interests: Interests
+
+fr:
+  summary: Résumé
+  education:
+    title: Éducation
+    honors: Honneurs
+    courses: Cours
+  work:
+    title: Expérience Professionnelle
+  projects:
+    title: Projets
+  certificates:
+    title: Licences & Certifications
+    issuedBy: Émis par
+    credentialId: Identifiant de la certification
+  skills:
+    titles:
+      languages: Langues
+      skills: Compétences
+      interests: Intérêts
