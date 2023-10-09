@@ -18,15 +18,7 @@
         doc
     }
 
-    #let i18n = {
-        let data = yaml("i18n.yml")
-
-        if options.lang == "en" {
-            data.en
-        } else if options.lang == "fr" {
-            data.fr
-        }
-    }
+    #let i18n = getI18n(options)
 
     #cvHeading(data, options)
 
@@ -41,5 +33,5 @@
     #cvSkills(data, i18n)
     #cvReferences(data)
 
-    #endnote
+    #endNote(i18n)
 ]
