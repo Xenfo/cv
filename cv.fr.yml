@@ -18,18 +18,18 @@ personal:
       username: Xenfo
       url: https://github.com/Xenfo
 
-summary: Experienced full stack developer trained in TypeScript, Go and Rust. Two years of experience using Go and JavaScript/TypeScript with React creating backend and frontend systems. Built the Message Center at Aheeva.
+summary: Développeur full stack expérimenté formé à TypeScript, Go et Rust. Deux ans d'expérience dans l'utilisation de Go et de JavaScript/TypeScript avec React pour créer des systèmes backend et frontend. A construit le "Message Center" chez Aheeva.
 
 work:
   - organization: Aheeva
-    position: Full Stack Developer
+    position: Développeur Full Stack
     url: https://aheeva.com
     location: Télétravail / Montréal, Canada
     startDate: 2022-02-01
     endDate: null
     highlights:
-      - Worked with TypeScript, React, Angular, Go and MongoDB
-      - Built the Message Center from scratch
+      - A travaillé avec TypeScript, React, Angular, Go et MongoDB
+      - Création du "Message Center" à partir de zéro
 
 education:
   - institution: Collège Vincent Massey
@@ -69,17 +69,17 @@ projects:
     startDate: 2022-01-01
     endDate: 2022-04-01
     highlights:
-      - À travaillé avec TypeScript, Next.JS et Prisma
-      - Built an easy way for parents to report and track Covid-19 cases in EMSB schools
+      - A travaillé avec TypeScript, Next.JS et Prisma
+      - Mise en place d'un moyen facile pour les parents de signaler et de suivre les cas de Covid-19 dans les écoles de l'EMSB
   - name: Alph4
     url: https://alph4.xyz
     affiliation: Alph4
     startDate: 2020-08-01
     endDate: null
     highlights:
-      - À travaillé avec TypeScript
-      - Created a multi-purpose Discord bot used by nearly 260,000 people with a team of only two developers
-      - Modified Discord Akairo to support new features within Discord such as slash commands
+      - A travaillé avec TypeScript
+      - Création d'un bot Discord multifonctionnel utilisé par près de 260 000 personnes avec une équipe de seulement deux développeurs
+      - Modification de Discord Akairo pour prendre en charge les nouvelles fonctionnalités de Discord comme les commandes slash
 
 skills:
   - category: Programmation
@@ -88,7 +88,7 @@ skills:
       - Go
       - Rust
       - MongoDB
-  - category: Tools
+  - category: Outils
     skills:
       - Git
       - Docker
