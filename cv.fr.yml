@@ -18,7 +18,7 @@ personal:
       username: Xenfo
       url: https://github.com/Xenfo
 
-summary: Développeur full stack expérimenté formé à TypeScript, Go et Rust. Deux ans d'expérience dans l'utilisation de Go et de JavaScript/TypeScript avec React pour créer des systèmes backend et frontend. A construit le "Message Center" chez Aheeva.
+summary: Développeur full stack expérimenté, formé en TypeScript, Go et Rust. Deux ans d'expérience de Go et de JavaScript/TypeScript avec React pour créer des systèmes de backend et de frontend. A construit le "Message Center" chez Aheeva.
 
 work:
   - organization: Aheeva
@@ -29,7 +29,7 @@ work:
     endDate: null
     highlights:
       - A travaillé avec TypeScript, React, Angular, Go et MongoDB
-      - Création du "Message Center" à partir de zéro
+      - Création du "Message Center" à partir de rien
 
 education:
   - institution: Collège Vincent Massey
@@ -79,7 +79,7 @@ projects:
     highlights:
       - A travaillé avec TypeScript
       - Création d'un bot Discord multifonctionnel utilisé par près de 260 000 personnes avec une équipe de seulement deux développeurs
-      - Modification de Discord Akairo pour prendre en charge les nouvelles fonctionnalités de Discord comme les commandes slash
+      - Modification de Discord Akairo pour prendre en charge les nouvelles fonctionnalités de Discord, tel que les commandes slash
 
 skills:
   - category: Programmation
@@ -107,7 +107,7 @@ languages:
   - language: Anglais
     fluency: Langue maternelle
   - language: Français
-    fluency: Parle couramment
+    fluency: Parlé couramment
 
 interests: null
 references: null
